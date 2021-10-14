@@ -1,0 +1,29 @@
+{
+  
+"result": true,
+  
+"plugins_": {
+  
+"AddedMe.lua":"[ملف امر منو ضافني](https://t.me/x_Mikasa)",
+  
+"TagAll.lua":"[ملف تاك منفصل للاعضاء](https://t.me/x_Mikasa)",
+  
+"TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/x_Mikasa)",
+  
+"ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/x_Mikasa)",
+      
+"MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/x_Mikasa)",
+  
+"ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/x_Mikasa)",
+  
+"ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/x_Mikasa)",
+    
+"ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/x_Mikasa)",
+  
+"ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/x_Mikasa)",
+  
+"AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/x_Mikasa)",
+  
+}
+  
+}
